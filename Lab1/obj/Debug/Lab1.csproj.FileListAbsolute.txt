@@ -1,0 +1,10 @@
+D:\Лаби\Розробка інтерфейсів користувача\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+D:\Лаби\Розробка інтерфейсів користувача\Lab1\obj\Debug\Lab1.Form1.resources
+D:\Лаби\Розробка інтерфейсів користувача\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+D:\Лаби\Розробка інтерфейсів користувача\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+D:\Лаби\Розробка інтерфейсів користувача\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+D:\Лаби\Розробка інтерфейсів користувача\Lab1\bin\Debug\Lab1.exe.config
+D:\Лаби\Розробка інтерфейсів користувача\Lab1\bin\Debug\Lab1.exe
+D:\Лаби\Розробка інтерфейсів користувача\Lab1\bin\Debug\Lab1.pdb
+D:\Лаби\Розробка інтерфейсів користувача\Lab1\obj\Debug\Lab1.exe
+D:\Лаби\Розробка інтерфейсів користувача\Lab1\obj\Debug\Lab1.pdb

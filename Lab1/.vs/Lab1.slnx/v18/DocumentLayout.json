@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041B\u0430\u0431\u0438\\\u0420\u043E\u0437\u0440\u043E\u0431\u043A\u0430 \u0456\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u0456\u0432 \u043A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\u0430\\Lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{920026B1-11B7-48D4-A537-415113828DE9}|Lab1.csproj|d:\\\u043B\u0430\u0431\u0438\\\u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0430 \u0456\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u0456\u0432 \u043A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\u0430\\lab1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{920026B1-11B7-48D4-A537-415113828DE9}|Lab1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{920026B1-11B7-48D4-A537-415113828DE9}|Lab1.csproj|d:\\\u043B\u0430\u0431\u0438\\\u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0430 \u0456\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u0456\u0432 \u043A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\u0430\\lab1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{920026B1-11B7-48D4-A537-415113828DE9}|Lab1.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{920026B1-11B7-48D4-A537-415113828DE9}|Lab1.csproj|d:\\\u043B\u0430\u0431\u0438\\\u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0430 \u0456\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u0456\u0432 \u043A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\u0430\\lab1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{920026B1-11B7-48D4-A537-415113828DE9}|Lab1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\\u041B\u0430\u0431\u0438\\\u0420\u043E\u0437\u0440\u043E\u0431\u043A\u0430 \u0456\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u0456\u0432 \u043A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\u0430\\Lab1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\\u041B\u0430\u0431\u0438\\\u0420\u043E\u0437\u0440\u043E\u0431\u043A\u0430 \u0456\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u0456\u0432 \u043A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\u0430\\Lab1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAawFwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T13:09:34.156Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\\u041B\u0430\u0431\u0438\\\u0420\u043E\u0437\u0440\u043E\u0431\u043A\u0430 \u0456\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u0456\u0432 \u043A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\u0430\\Lab1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\\u041B\u0430\u0431\u0438\\\u0420\u043E\u0437\u0440\u043E\u0431\u043A\u0430 \u0456\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u0456\u0432 \u043A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\u0430\\Lab1\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAlwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T13:09:51.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\\u041B\u0430\u0431\u0438\\\u0420\u043E\u0437\u0440\u043E\u0431\u043A\u0430 \u0456\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u0456\u0432 \u043A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\u0430\\Lab1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\\u041B\u0430\u0431\u0438\\\u0420\u043E\u0437\u0440\u043E\u0431\u043A\u0430 \u0456\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u0456\u0432 \u043A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\u0430\\Lab1\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T13:09:30.635Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
