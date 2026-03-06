@@ -1,0 +1,103 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(135deg, #0b1410, #102019);
+  color: #e8f5e9;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.container {
+  background: rgba(27, 43, 34, 0.95);
+  padding: 35px 30px;
+  border-radius: 18px;
+  width: 420px;
+  text-align: center;
+  box-shadow: 0 12px 35px rgba(0, 0, 0, 0.45);
+  border: 1px solid rgba(102, 187, 106, 0.15);
+}
+
+h1 {
+  margin: 0 0 25px 0;
+  font-size: 22px;
+  color: #f1f8e9;
+}
+
+#question {
+  font-size: 20px;
+  margin-bottom: 18px;
+  color: #ffffff;
+}
+
+input {
+  width: 100%;
+  padding: 12px 14px;
+  margin-top: 10px;
+  border-radius: 10px;
+  border: 1px solid #2e7d32;
+  background: #142019;
+  color: #e8f5e9;
+  outline: none;
+  font-size: 15px;
+  box-sizing: border-box;
+  transition: 0.2s;
+}
+
+input::placeholder {
+  color: #9db5a3;
+}
+
+input:focus {
+  border: 1px solid #66bb6a;
+  box-shadow: 0 0 10px rgba(102, 187, 106, 0.45);
+  background: #18261d;
+}
+
+button {
+  margin-top: 18px;
+  padding: 12px 18px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: 0.2s;
+  font-weight: bold;
+  font-size: 15px;
+  min-width: 120px;
+}
+
+#nextBtn {
+  background: linear-gradient(135deg, #2e7d32, #43a047);
+  color: white;
+}
+
+#nextBtn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 14px rgba(46, 125, 50, 0.35);
+}
+
+#saveBtn {
+  background: linear-gradient(135deg, #4345a0, #5c6bc0);
+  color: white;
+}
+
+#saveBtn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 14px rgba(92, 107, 192, 0.35);
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-between;
+  gap: 14px;
+  margin-top: 10px;
+}
+
+.error {
+  margin-top: 8px;
+  color: #ff8a80;
+  font-size: 14px;
+  min-height: 18px;
+  text-align: left;
+}

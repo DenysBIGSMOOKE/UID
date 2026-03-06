@@ -1,0 +1,14 @@
+.vs/
+**/.vs/
+bin/
+obj/
+**/bin/
+**/obj/
+*.user
+*.suo
+node_modules/
+dist/
+build/
+__pycache__/
+.env
+*.log
